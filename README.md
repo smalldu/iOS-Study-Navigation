@@ -40,6 +40,11 @@
 *** 
 - [KSPhotoBrowser](https://github.com/skx926/KSPhotoBrowser) 一个小而美的图片浏览器
 
+#### 音视频 
+
+***
+- [ZFPlayer](https://github.com/renzifeng/ZFPlayer) 视频播放基于AVPlayer OC
+
 #### 学习资料
 
 *** 
