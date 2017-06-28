@@ -52,4 +52,5 @@
 - [XLUIKit](https://github.com/mengxianliang/XLUIKit) 个人开发的UI工具集
 - [LearnSwift](https://github.com/cjiong/LearnSwift)  swift开发各种demo
 - [ResumeSample](https://github.com/geekcompany/ResumeSample) 程序员简历模板系列
-
+- [Swift 起步走](https://itisjoe.gitbooks.io/swiftgo/content/database/sqlite.html) 一个swift学习网站
+- [网易HubbleData无埋点SDK在iOS端的设计与实现](https://neyoufan.github.io/2017/04/19/ios/%E7%BD%91%E6%98%93HubbleData%E6%97%A0%E5%9F%8B%E7%82%B9SDK%E5%9C%A8iOS%E7%AB%AF%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0/) 无埋点行为统计方案
