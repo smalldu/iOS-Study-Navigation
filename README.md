@@ -57,3 +57,9 @@
 - [IM 即时通讯](http://www.52im.net/thread-464-1-1.html) IM开发者社区
 - [微博@iOS程序犭袁 的blog](https://github.com/ChenYilong/iOSBlog)  IM开发
 - [iOS IM文章](http://www.ctolib.com/topics-105643.html)  iOS IM 开发
+- [swift-weekly](https://github.com/vandadnp/swift-weekly)  Weekly Swift Language Gems, Tips and Tricks
+- [iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples) iOS 11 API 举例
+
+
+
+
