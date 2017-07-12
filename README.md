@@ -45,6 +45,11 @@
 ***
 - [ZFPlayer](https://github.com/renzifeng/ZFPlayer) 视频播放基于AVPlayer OC
 
+#### 属性字
+***
+- [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) 自动识别连接 # @ 支持自定义正则
+
+
 #### 学习资料
 
 *** 
