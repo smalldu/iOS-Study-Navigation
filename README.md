@@ -49,6 +49,24 @@
 ***
 - [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) 自动识别连接 # @ 支持自定义正则
 
+#### 搜索
+***
+
+- [reel-search](https://github.com/ramotion/reel-search?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) 实时搜索 
+
+#### UI
+*** 
+
+- [Eureka](https://github.com/xmartlabs/Eureka)  一款表单 
+- [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) 时间选择器
+- [XLActionController](https://github.com/xmartlabs/XLActionController) 弹出框 
+- [expanding-collection](https://github.com/Ramotion/expanding-collection) 炫酷collectionview
+- [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) 空数据
+- [Instructions](https://github.com/ephread/Instructions) 新手引导介绍
+- [Presentation](https://github.com/hyperoslo/Presentation)
+- [Chameleon](https://github.com/ViccAlexander/Chameleon) 一款很厉害的颜色框架 
+- [FaceAware](https://github.com/BeauNouvelle/FaceAware) 圆形图自动识别脸部 
+- [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar)  日历
 
 #### 学习资料
 
